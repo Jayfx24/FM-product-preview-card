@@ -102,7 +102,7 @@ h1{
 }
 
 .description{
-    width: 25ch;
+    max-width: 25ch;
     line-height: 1.6;
 }
 
