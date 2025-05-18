@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Jayfx24/FM-product-preview-card]
-- Live Site URL: [https://jayfx24.github.io/Etch-A-Sketch]
+- Solution URL: [https://github.com/Jayfx24/FM-product-preview-card]()
+- Live Site URL: [https://jayfx24.github.io/Etch-A-Sketch]()
 
 ## My process
 
